@@ -1,4 +1,10 @@
 .popup {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
   width: 400px;
   height: 400px;
 
@@ -6,7 +12,6 @@
   padding: 20px;
   background: #fff;
   border-radius: 5px;
-  width: 30%;
   position: relative;
   transition: all 5s ease-in-out;
 }

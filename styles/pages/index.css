@@ -19,4 +19,5 @@
 
 @import url(../blocks/popup/popup.css);
 @import url(../blocks/popup/__overlay/popup__overlay.css);
+@import url(../blocks/popup/__close/popup__close.css);
 @import url(../blocks/popup/__text/popup__text.css);
