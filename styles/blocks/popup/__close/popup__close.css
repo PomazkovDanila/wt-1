@@ -1,0 +1,5 @@
+.popup__close {
+  padding: 8px 15px;
+  border-radius: 5px;
+  background-color: var(--color-button);
+}

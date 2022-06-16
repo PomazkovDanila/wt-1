@@ -1,0 +1,8 @@
+.block2__list {
+  height: 100%;
+
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  grid-template-rows: repeat(1, auto);
+  gap: 30px;
+}

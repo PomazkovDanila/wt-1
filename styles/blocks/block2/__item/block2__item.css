@@ -1,0 +1,7 @@
+.block2__item {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1/1;
+
+  background-color: var(--color-block2-in);
+}

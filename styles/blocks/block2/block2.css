@@ -1,0 +1,8 @@
+.block2 {
+  height: 100%;
+
+  margin-top: 15px;
+  padding: 30px;
+
+  background-color: var(--color-block2);
+}

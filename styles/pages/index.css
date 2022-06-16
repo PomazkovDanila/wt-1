@@ -1,0 +1,22 @@
+/* base */
+@import url(../normalize.css);
+@import url(../mixin.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/wrapper/wrapper.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/button/button.css);
+
+@import url(../blocks/block1/block1.css);
+@import url(../blocks/block1/__item/block1__item.css);
+
+@import url(../blocks/block2/block2.css);
+@import url(../blocks/block2/__list/block2__list.css);
+@import url(../blocks/block2/__item/block2__item.css);
+
+@import url(../blocks/footer/footer.css);
+
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__overlay/popup__overlay.css);
+@import url(../blocks/popup/__text/popup__text.css);
