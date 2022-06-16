@@ -14,10 +14,10 @@
 .block1__item:after {
   position: absolute;
 
-  width: 100%;
-  top: calc(50% - 53px / 2);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 
-  text-align: center;
   font-size: 53px;
   overflow: hidden;
 }
